@@ -1,4 +1,4 @@
-<h1 align="center">hello there, i'm Nikhil</h1>
+<h1 align="center">Hello there, I'm Nikhil</h1>
 
 <p align="center">
   Senior product designer | Creator | Ai-native builder
