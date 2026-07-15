@@ -4,29 +4,13 @@
   Senior product designer | Creator | Ai-native builder
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nikhildesigns&label=profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
----
-
 I design products for complex spaces and build prototypes, tools, and workflows that help teams move faster.
 
 7+ years across consumer products and enterprise tools | Bengaluru | currently becoming fluent with AI-assisted shipping.
 
 ---
 
-### building
-
-[portfolio](https://nikhildesigns.github.io/) - a design portfolio with case studies and a little inspect-mode personality.
-
-[skillcraft](https://github.com/nikhildesigns/skillcraft) - a personal AI skill library for Claude Code, Codex, and Cowork so repeatable workflows do not need to be re-explained every session.
-
-[pokeclawd](https://github.com/nikhildesigns/pokeclawd) - pixel-art animated characters with zero runtime dependencies.
-
----
-
-### work
+### work exp
 
 Senior Product Designer working across fintech, mobility, fleet operations, and e-commerce.
 
