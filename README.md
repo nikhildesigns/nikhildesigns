@@ -10,16 +10,6 @@ I design products for complex spaces and build prototypes, tools, and workflows 
 
 ---
 
-### work exp
-
-Senior Product Designer working across fintech, mobility, fleet operations, and e-commerce.
-
-- Motive - Safety & fleet operations
-- Jupiter - payments activation and product growth
-- Gojek - Chat, search, authentication services
-
----
-
 ### stack
 
 ![Figma](https://img.shields.io/badge/Figma-0b0f14?style=flat&logo=figma)
